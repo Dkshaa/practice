@@ -21,3 +21,11 @@ Include:
 ## During review
 
 Respond to questions clearly, make requested updates in focused commits, and confirm that automated checks pass before merging.
+
+## Before merging
+
+- Re-read the final diff, including changes added during review.
+- Confirm every review conversation is resolved.
+- Check that the branch can merge without conflicts.
+- Choose a merge strategy that matches the repository's conventions.
+- Delete the source branch after the change is safely merged.
