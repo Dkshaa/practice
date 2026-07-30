@@ -25,3 +25,13 @@ git rebase origin/main
 ```
 
 After the work is merged, remove the local branch with `git branch -d branch-name`.
+
+To remove the corresponding remote branch after merging, run:
+
+```bash
+git push origin --delete branch-name
+```
+
+Use `-d` for local cleanup because Git refuses to delete an unmerged branch. Avoid
+the force-delete option unless you have confirmed the branch contains no work you
+still need.
