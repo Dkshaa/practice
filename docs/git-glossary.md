@@ -5,7 +5,10 @@
 - **Staging area:** The set of changes selected for the next commit.
 - **Commit:** A saved snapshot with a message and unique identifier.
 - **Branch:** A movable line of development.
+- **HEAD:** A reference to the commit or branch currently checked out.
 - **Remote:** A named connection to another repository, often on GitHub.
+- **Clone:** Create a local copy of a remote repository.
+- **Fetch:** Download remote commits and references without changing local files.
 - **Push:** Send local commits to a remote repository.
 - **Pull:** Fetch remote changes and integrate them locally.
 - **Merge:** Combine the histories of two branches.
