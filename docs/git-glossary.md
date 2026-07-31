@@ -13,5 +13,8 @@
 - **Pull:** Fetch remote changes and integrate them locally.
 - **Merge:** Combine the histories of two branches.
 - **Rebase:** Replay commits on top of a different base commit.
+- **Stash:** Temporarily store uncommitted changes outside the working tree.
+- **Tag:** A named reference commonly used to mark a release or milestone.
+- **Upstream branch:** The remote branch tracked by a local branch.
 - **Pull request:** A proposal to review and merge changes.
 - **Conflict:** Competing changes that require a person to choose the final result.
